@@ -1,1 +1,1 @@
-# jericho-timeblock-withsavedEvents
+A timeblock assignment that not only saves my schedule, but can tell if the schedule has already passed or has yet to come.
